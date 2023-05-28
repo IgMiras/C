@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1684273328 source:c:\users\alunos\documents\ex2\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1685305691 source:d:\documents\unesp\2_ano\ed\resolucaoprovaed\ex2\main.c
+	<stdio.h>
+	<stdlib.h>
+
